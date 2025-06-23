@@ -1,7 +1,7 @@
 # Ground Station UI & Raspberry Pi Setup Guide  
 
 ## ⚠️ Repository Notice  
-This repository contains a simplified, public-facing version(which is just readme).**The *full repository is kept private* to maintain authenticity**. For access inquiries, contact [Jaydeep Solanki](mailto:jaydeep.solankee@yahoo.com).  
+This repository contains a simplified, public-facing version(which is just readme).**The *full repository is kept private* to maintain authenticity**. For access inquiries, contact [Jaydeep Solanki](mailto:contactjaydeepsolanki@gmail.com).  
 
 ## Key Features  
 - **Real-time telemetry monitoring** via PySide6 GUI.  
@@ -81,7 +81,7 @@ This repository contains a simplified, public-facing version(which is just readm
 
 ## 📬 Contact  
 **Developer**: **Jaydeep Solanki**  
-- Email: [jaydeep.solankee@yahoo.com](mailto:jaydeep.solankee@yahoo.com)  
+- Email: [contactjaydeepsolanki@gmail.com](mailto:contactjaydeepsolanki@gmail.com)  
 - LinkedIn: [linkedin.com/in/solanki-jaydeep](https://www.linkedin.com/in/solanki-jaydeep)  
 
 **Team Dyaus** (Nirma University)  
